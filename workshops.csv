@@ -1,0 +1,29 @@
+course,track,trainer,city,date,learners,rating,cost,status
+Python for Data Analysis,AI & Data Science,Dr. Sarah Al-Otaibi,Riyadh,2026-01-10,25,4.8,1500,Completed
+Machine Learning Fundamentals,AI & Data Science,Dr. Sarah Al-Otaibi,Jeddah,2026-01-15,30,4.7,2200,Completed
+Deep Learning with PyTorch,AI & Data Science,Tariq Al-Mansoor,Riyadh,2026-01-22,20,4.9,2800,Completed
+Full-Stack React & Node,Web Development,Ahmed Al-Ghamdi,Dammam,2026-01-25,28,4.5,1800,Completed
+Frontend Basics with Tailwind,Web Development,Ahmed Al-Ghamdi,Riyadh,2026-02-02,35,4.6,1200,Completed
+Cloud Architecture on AWS,Cloud & DevOps,Fahad Al-Harbi,Khobar,2026-02-08,22,4.4,2500,Completed
+Docker & Kubernetes Mastery,Cloud & DevOps,Fahad Al-Harbi,Riyadh,2026-02-14,26,4.8,2700,Completed
+Network Security & Ethical Hacking,Cybersecurity,Laila Al-Shehri,Jeddah,2026-02-18,18,4.9,3000,Completed
+Cyber Threat Intelligence,Cybersecurity,Laila Al-Shehri,Riyadh,2026-02-24,24,4.7,2600,Completed
+Data Visualization with PowerBI,AI & Data Science,Dr. Sarah Al-Otaibi,Khobar,2026-03-01,32,4.6,1600,Completed
+Python for Data Analysis,AI & Data Science,Dr. Sarah Al-Otaibi,Riyadh,2026-01-10,25,4.8,1500,Completed
+Backend APIs with FastAPI,Web Development,Ahmed Al-Ghamdi,Jeddah,2026-03-05,27,4.3,1900,Completed
+DevOps CI/CD Pipelines,Cloud & DevOps,Fahad Al-Harbi,Dammam,2026-03-10,20,4.5,2300,Completed
+Applied NLP & LLMs,AI & Data Science,Tariq Al-Mansoor,Riyadh,2026-03-15,22,,3200,In Progress
+Next.js Web Applications,Web Development,Ahmed Al-Ghamdi,Riyadh,2026-03-18,30,4.7,,In Progress
+Azure Cloud Engineering,Cloud & DevOps,Fahad Al-Harbi,Jeddah,2026-03-22,,4.2,2400,In Progress
+Incident Response & Forensics,Cybersecurity,Laila Al-Shehri,Khobar,2026-03-28,19,4.8,2900,In Progress
+SQL Database Management,Web Development,Ahmed Al-Ghamdi,Dammam,2026-04-02,34,4.4,1400,Scheduled
+Computer Vision with OpenCV,AI & Data Science,Tariq Al-Mansoor,Jeddah,2026-04-08,25,4.6,2600,Scheduled
+Terraform Infrastructure as Code,Cloud & DevOps,Fahad Al-Harbi,Riyadh,2026-04-12,23,4.7,2500,Scheduled
+Secure Coding Practices,Cybersecurity,Laila Al-Shehri,Riyadh,2026-04-18,21,4.5,2100,Scheduled
+Modern JavaScript & TypeScript,Web Development,Ahmed Al-Ghamdi,Khobar,2026-04-22,29,4.6,1700,Scheduled
+Big Data with Apache Spark,AI & Data Science,Dr. Sarah Al-Otaibi,Dammam,2026-04-26,24,4.3,3100,Scheduled
+Microservices with Go,Web Development,Ahmed Al-Ghamdi,Riyadh,2026-05-02,20,4.5,2200,Scheduled
+Linux System Administration,Cloud & DevOps,Fahad Al-Harbi,Jeddah,2026-05-08,28,4.4,1600,Scheduled
+Cloud Security Architecture,Cybersecurity,Laila Al-Shehri,Dammam,2026-05-14,22,4.8,2800,Scheduled
+Prompt Engineering & Generative AI,AI & Data Science,Tariq Al-Mansoor,Riyadh,2026-05-20,35,4.9,1800,Scheduled
+Mobile App Dev with Flutter,Web Development,Ahmed Al-Ghamdi,Khobar,2026-05-25,26,4.4,2000,Scheduled
